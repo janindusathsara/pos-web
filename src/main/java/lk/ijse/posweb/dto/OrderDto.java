@@ -8,5 +8,7 @@ import lombok.Setter;
 @Setter
 @Getter
 public class OrderDto {
+
     private List<Long> products;
+    
 }
